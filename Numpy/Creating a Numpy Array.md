@@ -3,10 +3,13 @@ function. You can pass any sequence-like object into this function, and it will 
 
 ```
 import numpy as np
+
 # Create a Python list
 py_list = [1, 2, 3, 4, 5]
+
 # Convert list to a Numpy array
 np_array = np.array(py_list)
+
 print(np_array) # Output: [1 2 3 4 5]
 ```
 
