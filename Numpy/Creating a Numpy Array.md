@@ -1,3 +1,6 @@
+##Creating a Numpy Array
+
+
 The most common way to create a Numpy array is by using the `numpy.array()`
 function. You can pass any sequence-like object into this function, and it will be converted into an array. Let's convert a regular Python list into a Numpy array:
 
