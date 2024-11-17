@@ -33,12 +33,13 @@ The simplest way to select a column in a DataFrame is by label:
 
 print(df['column_name']) # select a single column
 print(df[['col1', 'col2']]) # select multiple columns
-To select elements within the DataFrame by integer location, we use the iloc method. The iloc indexer is like Python list slicing. This accepts integer inputs and slice notation. The general syntax is df.iloc[row_selection, column_selection]:
+```
+To select elements within the DataFrame by integer location, we use the `iloc` method. The `iloc` indexer is like Python list `slicing`. This accepts integer inputs and slice notation. The general syntax is `df.iloc[row_selection, column_selection]`:
 
 For example, if we wish to select the value in the second row (indexed at 1) and the first column (indexed at 0):
 
-Python
-Copy
+```Python
+
 df.iloc[1,0] # Select the value in the second row and the first column (1-based)
 df.iloc[:2,:2] # Select the first two rows and columns
 ```
