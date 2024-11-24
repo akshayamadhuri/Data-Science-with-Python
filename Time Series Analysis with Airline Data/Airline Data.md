@@ -1,4 +1,4 @@
-#Exploring the Seaborn Flights Dataset: An Initial Glimpse
+# Exploring the Seaborn Flights Dataset: An Initial Glimpse
 
 ## Introduction to the Seaborn Flights Dataset
 
