@@ -66,8 +66,9 @@ memory usage: 2.9 KB
 ```
 This will print out the number of entries, columns, column names, their data types, and the count of non-null entries per column, telling us whether our data has any missing entries. In this case, our dataset is complete and contains no missing values.
 
-Let's Dig a Bit Deeper
-We always want more! It is time we dig a little deeper into the dataset. A quick way to get a summary of the numerical fields in your dataset is to use the describe() command. This command provides a statistical summary for numerical columns.
+## Let's Dig a Bit Deeper
+
+We always want more! It is time we dig a little deeper into the dataset. A quick way to get a summary of the numerical fields in your dataset is to use the `describe()` command. This command provides a statistical summary for numerical columns.
 
 ```Python
 
