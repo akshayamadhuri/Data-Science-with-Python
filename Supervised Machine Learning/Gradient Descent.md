@@ -1,6 +1,6 @@
 # Mastering Gradient Descent: Your Guide to Optimizing Machine Learning Models
 
-##Introduction
+## Introduction
 
 Gradient Descent is a cornerstone of optimization in machine learning and deep learning. Its function enables the machine learning model to 'learn,' thereby improving itself based on its past performance. As we peel back layers of this lesson, we promise you a more profound understanding of Gradient Descent, its role in machine learning, and its implementation with Python. Buckle up for an exciting educational journey!
 
